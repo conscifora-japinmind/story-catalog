@@ -1,0 +1,26 @@
+{
+  "id": "station-arrival",
+  "chapterId": "remote-city-stories",
+  "title": "remoteStories.city.station_arrival.title",
+  "summary": "remoteStories.city.station_arrival.summary",
+  "tokens": [
+    { "id": "station-1", "kind": "word", "value": "東京", "reading": "とうきょう", "lexiconId": "tokyo" },
+    { "id": "station-2", "kind": "text", "value": " " },
+    { "id": "station-3", "kind": "word", "value": "駅", "reading": "えき", "lexiconId": "station" },
+    { "id": "station-4", "kind": "text", "value": " " },
+    { "id": "station-5", "kind": "word", "value": "へ", "reading": "へ", "lexiconId": "direction-he" },
+    { "id": "station-6", "kind": "text", "value": " " },
+    { "id": "station-7", "kind": "word", "value": "行きます", "reading": "いきます", "lexiconId": "go" },
+    { "id": "station-8", "kind": "text", "value": "。 " },
+    { "id": "station-9", "kind": "word", "value": "友達", "reading": "ともだち", "lexiconId": "friend" },
+    { "id": "station-10", "kind": "text", "value": " " },
+    { "id": "station-11", "kind": "word", "value": "と", "reading": "と", "lexiconId": "with-to" },
+    { "id": "station-12", "kind": "text", "value": " " },
+    { "id": "station-13", "kind": "word", "value": "東口", "reading": "ひがしぐち", "lexiconId": "east-exit" },
+    { "id": "station-14", "kind": "text", "value": " " },
+    { "id": "station-15", "kind": "word", "value": "で", "reading": "で", "lexiconId": "place-de" },
+    { "id": "station-16", "kind": "text", "value": " " },
+    { "id": "station-17", "kind": "word", "value": "会います", "reading": "あいます", "lexiconId": "meet" },
+    { "id": "station-18", "kind": "text", "value": "。" }
+  ]
+}

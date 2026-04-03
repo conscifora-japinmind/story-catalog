@@ -1,0 +1,297 @@
+{
+  "words": [
+    {
+      "id": "tokyo",
+      "surface": "東京",
+      "reading": "とうきょう",
+      "meanings": { "ru": "Токио", "en": "Tokyo" },
+      "contextNote": { "ru": "название города", "en": "city name" },
+      "kanjiStudy": [
+        {
+          "symbol": "東",
+          "meanings": { "ru": "восток", "en": "east" },
+          "mnemonic": {
+            "ru": "Солнце в дереве: утро приходит с востока.",
+            "en": "Sun in a tree: morning comes from the east."
+          },
+          "components": [
+            { "symbol": "木", "meanings": { "ru": "дерево", "en": "tree" } },
+            { "symbol": "日", "meanings": { "ru": "солнце", "en": "sun" } }
+          ],
+          "relatedKanji": ["東口"]
+        },
+        {
+          "symbol": "京",
+          "meanings": { "ru": "столица", "en": "capital" },
+          "mnemonic": {
+            "ru": "Высокие башни столицы видны издалека.",
+            "en": "The capital is seen through its tall towers."
+          },
+          "components": [
+            { "symbol": "亠", "meanings": { "ru": "верх", "en": "top" } },
+            { "symbol": "口", "meanings": { "ru": "рот", "en": "mouth" } },
+            { "symbol": "小", "meanings": { "ru": "маленький", "en": "small" } }
+          ],
+          "relatedKanji": ["京都"]
+        }
+      ]
+    },
+    {
+      "id": "station",
+      "surface": "駅",
+      "reading": "えき",
+      "meanings": { "ru": "станция", "en": "station" },
+      "contextNote": { "ru": "место прибытия и отправления", "en": "a place for arrivals and departures" },
+      "kanjiStudy": [
+        {
+          "symbol": "駅",
+          "meanings": { "ru": "станция", "en": "station" },
+          "mnemonic": {
+            "ru": "Лошадь останавливается у станции и ждёт людей.",
+            "en": "The horse stops at the station and waits for people."
+          },
+          "components": [
+            { "symbol": "馬", "meanings": { "ru": "лошадь", "en": "horse" } },
+            { "symbol": "尺", "meanings": { "ru": "мера", "en": "measure" } }
+          ],
+          "relatedKanji": ["駅前"]
+        }
+      ]
+    },
+    {
+      "id": "direction-he",
+      "surface": "へ",
+      "reading": "へ",
+      "meanings": { "ru": "к / в направлении", "en": "toward / to" },
+      "contextNote": { "ru": "показывает направление движения", "en": "marks direction" }
+    },
+    {
+      "id": "go",
+      "surface": "行きます",
+      "reading": "いきます",
+      "meanings": { "ru": "иду / поеду", "en": "go" },
+      "contextNote": { "ru": "движение к месту", "en": "movement toward a place" },
+      "kanjiStudy": [
+        {
+          "symbol": "行",
+          "meanings": { "ru": "идти", "en": "go" },
+          "mnemonic": {
+            "ru": "Две дороги пересекаются, и ты идёшь по нужной.",
+            "en": "Two roads cross and you move along the right one."
+          },
+          "components": [
+            { "symbol": "彳", "meanings": { "ru": "шаг", "en": "step" } },
+            { "symbol": "亍", "meanings": { "ru": "дорога", "en": "road" } }
+          ],
+          "relatedKanji": ["行先"]
+        }
+      ]
+    },
+    {
+      "id": "friend",
+      "surface": "友達",
+      "reading": "ともだち",
+      "meanings": { "ru": "друг", "en": "friend" },
+      "contextNote": { "ru": "человек, с которым встречаются", "en": "the person you meet" },
+      "kanjiStudy": [
+        {
+          "symbol": "友",
+          "meanings": { "ru": "друг", "en": "friend" },
+          "mnemonic": {
+            "ru": "Две руки помогают друг другу, поэтому это друг.",
+            "en": "Two hands help each other, so this is a friend."
+          },
+          "components": [
+            { "symbol": "又", "meanings": { "ru": "рука", "en": "hand" } }
+          ],
+          "relatedKanji": ["友達"]
+        },
+        {
+          "symbol": "達",
+          "meanings": { "ru": "достигать / множественность", "en": "reach / plural marker" },
+          "mnemonic": {
+            "ru": "Идти по дороге к цели вместе с другими.",
+            "en": "Travel along the road and reach the goal together."
+          },
+          "components": [
+            { "symbol": "土", "meanings": { "ru": "земля", "en": "earth" } },
+            { "symbol": "羊", "meanings": { "ru": "овца", "en": "sheep" } },
+            { "symbol": "辶", "meanings": { "ru": "дорога", "en": "road" } }
+          ],
+          "relatedKanji": ["達人", "友達"]
+        }
+      ]
+    },
+    {
+      "id": "with-to",
+      "surface": "と",
+      "reading": "と",
+      "meanings": { "ru": "с / и", "en": "with / and" },
+      "contextNote": { "ru": "соединяет людей или предметы", "en": "links people or things together" }
+    },
+    {
+      "id": "east-exit",
+      "surface": "東口",
+      "reading": "ひがしぐち",
+      "meanings": { "ru": "восточный выход", "en": "east exit" },
+      "contextNote": { "ru": "ориентир у станции", "en": "a station landmark" },
+      "kanjiStudy": [
+        {
+          "symbol": "東",
+          "meanings": { "ru": "восток", "en": "east" },
+          "mnemonic": {
+            "ru": "Солнце появляется за деревом на востоке.",
+            "en": "The sun appears behind a tree in the east."
+          },
+          "components": [
+            { "symbol": "木", "meanings": { "ru": "дерево", "en": "tree" } },
+            { "symbol": "日", "meanings": { "ru": "солнце", "en": "sun" } }
+          ],
+          "relatedKanji": ["東京"]
+        },
+        {
+          "symbol": "口",
+          "meanings": { "ru": "рот / вход", "en": "mouth / entrance" },
+          "mnemonic": {
+            "ru": "Простой проём как открытый вход.",
+            "en": "A simple opening like an entrance."
+          },
+          "components": [],
+          "relatedKanji": ["出口", "入口"]
+        }
+      ]
+    },
+    {
+      "id": "place-de",
+      "surface": "で",
+      "reading": "で",
+      "meanings": { "ru": "в / на / указывает место действия", "en": "at / in / marks the place of action" },
+      "contextNote": { "ru": "место, где происходит действие", "en": "the place where the action happens" }
+    },
+    {
+      "id": "meet",
+      "surface": "会います",
+      "reading": "あいます",
+      "meanings": { "ru": "встречаюсь", "en": "meet" },
+      "contextNote": { "ru": "встретиться с человеком", "en": "to meet someone" },
+      "kanjiStudy": [
+        {
+          "symbol": "会",
+          "meanings": { "ru": "встреча", "en": "meeting" },
+          "mnemonic": {
+            "ru": "Люди сходятся под одной крышей на встречу.",
+            "en": "People gather under one roof for a meeting."
+          },
+          "components": [
+            { "symbol": "人", "meanings": { "ru": "человек", "en": "person" } },
+            { "symbol": "云", "meanings": { "ru": "собраться", "en": "gather" } }
+          ],
+          "relatedKanji": ["会社", "会話"]
+        }
+      ]
+    },
+    {
+      "id": "student",
+      "surface": "学生",
+      "reading": "がくせい",
+      "meanings": { "ru": "студент", "en": "student" },
+      "contextNote": { "ru": "человек, который учится", "en": "a person who studies" },
+      "kanjiStudy": [
+        {
+          "symbol": "学",
+          "meanings": { "ru": "учёба", "en": "study" },
+          "mnemonic": {
+            "ru": "Ребёнок под крышей учится.",
+            "en": "A child studies under a roof."
+          },
+          "components": [
+            { "symbol": "子", "meanings": { "ru": "ребёнок", "en": "child" } }
+          ],
+          "relatedKanji": ["学校", "学生"]
+        },
+        {
+          "symbol": "生",
+          "meanings": { "ru": "жизнь / рождение", "en": "life / birth" },
+          "mnemonic": {
+            "ru": "Росток выходит из земли, это жизнь.",
+            "en": "A sprout rises from the ground, that is life."
+          },
+          "components": [],
+          "relatedKanji": ["先生", "学生"]
+        }
+      ]
+    },
+    {
+      "id": "topic-wa",
+      "surface": "は",
+      "reading": "は",
+      "meanings": { "ru": "тема предложения", "en": "topic marker" },
+      "contextNote": { "ru": "показывает, о чём идёт речь", "en": "shows what the sentence is about" }
+    },
+    {
+      "id": "library",
+      "surface": "図書館",
+      "reading": "としょかん",
+      "meanings": { "ru": "библиотека", "en": "library" },
+      "contextNote": { "ru": "место с книгами", "en": "a place with books" }
+    },
+    {
+      "id": "until-made",
+      "surface": "まで",
+      "reading": "まで",
+      "meanings": { "ru": "до", "en": "until / up to" },
+      "contextNote": { "ru": "показывает предел пути", "en": "marks the limit of the route" }
+    },
+    {
+      "id": "road",
+      "surface": "道",
+      "reading": "みち",
+      "meanings": { "ru": "дорога", "en": "road" },
+      "contextNote": { "ru": "путь между местами", "en": "a path between places" },
+      "kanjiStudy": [
+        {
+          "symbol": "道",
+          "meanings": { "ru": "дорога", "en": "road" },
+          "mnemonic": {
+            "ru": "Голова смотрит вперёд, а ноги идут по дороге.",
+            "en": "The head looks ahead while the feet follow the road."
+          },
+          "components": [
+            { "symbol": "首", "meanings": { "ru": "голова", "en": "head" } },
+            { "symbol": "辶", "meanings": { "ru": "дорога", "en": "road" } }
+          ],
+          "relatedKanji": ["道路"]
+        }
+      ]
+    },
+    {
+      "id": "object-wo",
+      "surface": "を",
+      "reading": "を",
+      "meanings": { "ru": "указывает объект действия", "en": "object marker" },
+      "contextNote": { "ru": "на что направлено действие", "en": "marks what the action targets" }
+    },
+    {
+      "id": "walk",
+      "surface": "歩きます",
+      "reading": "あるきます",
+      "meanings": { "ru": "иду пешком", "en": "walk" },
+      "contextNote": { "ru": "идти ногами по дороге", "en": "move on foot along a road" },
+      "kanjiStudy": [
+        {
+          "symbol": "歩",
+          "meanings": { "ru": "шаг", "en": "walk / step" },
+          "mnemonic": {
+            "ru": "Маленькие шаги складываются в ходьбу.",
+            "en": "Small steps add up to walking."
+          },
+          "components": [
+            { "symbol": "止", "meanings": { "ru": "стопа", "en": "foot" } },
+            { "symbol": "少", "meanings": { "ru": "мало", "en": "little" } }
+          ],
+          "relatedKanji": ["散歩"]
+        }
+      ]
+    }
+  ]
+}

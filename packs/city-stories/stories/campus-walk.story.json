@@ -1,0 +1,22 @@
+{
+  "id": "campus-walk",
+  "chapterId": "remote-city-stories",
+  "title": "remoteStories.city.campus_walk.title",
+  "summary": "remoteStories.city.campus_walk.summary",
+  "tokens": [
+    { "id": "campus-1", "kind": "word", "value": "学生", "reading": "がくせい", "lexiconId": "student" },
+    { "id": "campus-2", "kind": "text", "value": " " },
+    { "id": "campus-3", "kind": "word", "value": "は", "reading": "は", "lexiconId": "topic-wa" },
+    { "id": "campus-4", "kind": "text", "value": " " },
+    { "id": "campus-5", "kind": "word", "value": "図書館", "reading": "としょかん", "lexiconId": "library" },
+    { "id": "campus-6", "kind": "text", "value": " " },
+    { "id": "campus-7", "kind": "word", "value": "まで", "reading": "まで", "lexiconId": "until-made" },
+    { "id": "campus-8", "kind": "text", "value": " " },
+    { "id": "campus-9", "kind": "word", "value": "道", "reading": "みち", "lexiconId": "road" },
+    { "id": "campus-10", "kind": "text", "value": " " },
+    { "id": "campus-11", "kind": "word", "value": "を", "reading": "を", "lexiconId": "object-wo" },
+    { "id": "campus-12", "kind": "text", "value": " " },
+    { "id": "campus-13", "kind": "word", "value": "歩きます", "reading": "あるきます", "lexiconId": "walk" },
+    { "id": "campus-14", "kind": "text", "value": "。" }
+  ]
+}

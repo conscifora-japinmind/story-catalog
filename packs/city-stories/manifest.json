@@ -1,0 +1,17 @@
+{
+  "id": "city-stories",
+  "version": "1.0.0",
+  "titleKey": "remoteStories.city.title",
+  "descriptionKey": "remoteStories.city.description",
+  "locales": {
+    "ru": "locales/ru.json",
+    "en": "locales/en.json"
+  },
+  "storyPaths": [
+    "stories/station-arrival.story.json",
+    "stories/campus-walk.story.json"
+  ],
+  "lexiconPath": "lexicon.json",
+  "assetsBaseUrl": "./",
+  "builtForAppVersion": "1.0.0"
+}
