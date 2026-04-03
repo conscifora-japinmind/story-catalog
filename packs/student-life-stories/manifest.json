@@ -1,0 +1,18 @@
+{
+  "id": "student-life-stories",
+  "version": "1.0.0",
+  "titleKey": "remoteStories.studentLife.title",
+  "descriptionKey": "remoteStories.studentLife.description",
+  "locales": {
+    "ru": "locales/ru.json",
+    "en": "locales/en.json"
+  },
+  "storyPaths": [
+    "stories/morning-campus.story.json",
+    "stories/library-project.story.json",
+    "stories/weekend-trip.story.json"
+  ],
+  "lexiconPath": "lexicon.json",
+  "assetsBaseUrl": "./",
+  "builtForAppVersion": "1.0.0"
+}

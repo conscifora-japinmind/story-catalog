@@ -9,6 +9,15 @@
       "jlptFrom": "N5",
       "jlptTo": "N4",
       "builtForAppVersion": "1.0.0"
+    },
+    {
+      "id": "student-life-stories",
+      "version": "1.0.0",
+      "manifestUrl": "packs/student-life-stories/manifest.json",
+      "coverUrl": null,
+      "jlptFrom": "N5",
+      "jlptTo": "N4",
+      "builtForAppVersion": "1.0.0"
     }
   ]
 }
